@@ -62,16 +62,6 @@ To visit:
 
 ---
 
-## 📸 Screenshots
-
-![Homepage](https://raw.githubusercontent.com/HarshGarg001/Financial-Analyst-Portfolio/main/assets/screenshots/home.png)
-
-![Projects](https://raw.githubusercontent.com/HarshGarg001/Financial-Analyst-Portfolio/main/assets/screenshots/projects.png)
-
-> *(Optional: Create an `assets/screenshots/` folder to store these if you'd like to display screenshots.)*
-
----
-
 ## 📬 Contact
 
 - 📧 Email: [harshgarg1921@gmail.com](mailto:harshgarg1921@gmail.com)  
