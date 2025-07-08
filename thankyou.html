@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thank You – Harsh Garg</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Custom Variables (match your theme) -->
+  <style>
+    :root {
+      --color: #f1f5f9;
+      --main-bg: #0a0a0a;
+      --second-bg: #262626;
+      --main-color: #3F51B5;
+      --second-color: #673AB7;
+    }
+  </style>
+</head>
+<body class="bg-[var(--main-bg)] text-[var(--color)] font-sans min-h-screen flex items-center justify-center px-6">
+
+  <div class="max-w-2xl text-center bg-[var(--second-bg)]/50 border border-[var(--color)]/10 backdrop-blur-xl rounded-3xl px-10 py-16 shadow-2xl">
+    <div class="mb-6">
+      <svg class="mx-auto w-16 h-16 text-[var(--main-color)]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2l4 -4m5 2a9 9 0 1 1 -18 0a9 9 0 0 1 18 0z"/>
+      </svg>
+    </div>
+
+    <h1 class="text-4xl font-bold mb-4">Thank You!</h1>
+    <p class="text-lg text-[var(--color)]/80 mb-8">
+      Your message has been received. I’ll get back to you as soon as possible. 🙌
+    </p>
+
+    <a href="index.html"
+       class="inline-block px-6 py-3 rounded-xl font-semibold bg-[var(--main-color)] text-white hover:bg-[var(--second-color)] transition">
+      Return to Home
+    </a>
+  </div>
+
+</body>
+</html>
